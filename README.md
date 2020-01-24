@@ -8,7 +8,7 @@ The following items are required to run this website:
 
 * [Ruby](http://www.ruby-lang.org/)
 * [Bundler](https://bundler.io/)
-* [jawarakonten](jawarakonten.com)
+* [jawarakonten](https://jawarakonten.com)
 
 ## Installation
 
